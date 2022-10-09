@@ -5,13 +5,13 @@ As the course progresses, you will find more notes in this repository. Right now
 - Notes for the Pre-intense part of the course (Basic Python in 2h.ipynb)
 - Other things that you will need later in the course (eg. data)
 
-## Day 1
+## Day 1 (coming soon)
 
-Python Refresher
-Tokenising Text and Data Collections
-Corpus, Context and Regular Expressions
-Data Cleaning and Visualisation
-Frequency and Collocations
+- Python Refresher
+- Tokenising Text and Data Collections
+- Corpus, Context and Regular Expressions
+- Data Cleaning and Visualisation
+- Frequency and Collocations
 
 ### Acknowledgments
 
